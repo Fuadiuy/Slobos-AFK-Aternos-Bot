@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Aagina.aternos.me",
+    "ip": "mouse.aternos.host",
     "port": 60055,
     "version": "",
     "try-creative": false
